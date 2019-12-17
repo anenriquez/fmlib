@@ -9,6 +9,6 @@ setup(name='fmlib',
       packages=['fmlib', 'fmlib.api', 'fmlib.api.rest', 'fmlib.config',
                 'fmlib.db', 'fmlib.exceptions', 'fmlib.interface', 'fmlib.models',
                 'fmlib.monitoring', 'fmlib.planning', 'fmlib.requests', 'fmlib.tests',
-                'fmlib.tests.fmlib', 'fmlib.integration', 'fmlib.utils'],
+                'fmlib.tests.fmlib', 'fmlib.tests.integration', 'fmlib.utils'],
       package_dir={'': '.'}
       )
