@@ -1,0 +1,15 @@
+pymodm>=0.4.1
+gunicorn>=19.9.0
+falcon>=2.0.0
+
+# ROS
+empy>=3.3.4
+rospkg>=1.1.10
+catkin-pkg>=0.4.13
+git+https://github.com:/ropod-project/rospy_message_converter.git
+
+# Testing
+pylint
+pytest
+pytest-cov
+
